@@ -1,0 +1,4 @@
+Islem:YENI REZERVASYON Detay:koray alabacak
+ TC:12312312312 Telefon numarasi:25252525
+Islem:YENI REZERVASYON Detay:Mehmet Berker Äakçr
+ TC:12345678912 Telefon numarasi:05074951135
